@@ -1,1 +1,1 @@
-# Student-Perfomance-Classification-Analysis--by-dheeraj
+# Student--Classification-Analysis--by-dheeraj
